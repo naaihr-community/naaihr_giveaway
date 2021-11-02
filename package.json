@@ -1,0 +1,26 @@
+{
+  "name": "naaihr_giveaway",
+  "version": "1.0.0",
+  "description": "A small bot for NaaIhr to easily create discord giveaways for his community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qreepex/naaihr_giveaway.git"
+  },
+  "author": "qreepex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qreepex/naaihr_giveaway/issues"
+  },
+  "homepage": "https://github.com/Qreepex/naaihr_giveaway#readme",
+  "dependencies": {
+    "@discordjs/collection": "^0.3.2",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.0.12",
+    "ms": "^2.1.3"
+  }
+}
